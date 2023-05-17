@@ -1,0 +1,42 @@
+img {
+  height: 350px;
+  width: 150px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h5 {
+  height: 100px;
+  font-size: 20px;
+}
+
+.card {
+  margin: 5px;
+  background-color: rgba(50, 205, 184, 0.588);
+}
+
+.farid {
+  justify-content: center !important;
+}
+
+#header {
+  background-image: url(./AsuTEV-VRn_M.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 280px !important;
+  margin-bottom: 10px;
+}
+
+.myImg {
+  height: 100%;
+  width: 100%;
+}
+
+.fa-hand {
+  font-size: 30px;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */

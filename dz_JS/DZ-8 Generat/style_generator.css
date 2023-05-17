@@ -1,0 +1,33 @@
+.conteiner {
+  background-color: rgb(217, 209, 209);
+  width: 400px;
+  height: 370px;
+  padding: 0px 20px;
+}
+.conteiner h2 {
+  padding-left: 10px;
+}
+.conteiner form {
+  padding: 10px 20px;
+  margin: 10px;
+}
+.conteiner form #count {
+  width: 40px;
+  height: 20px;
+}
+.conteiner form #strlength {
+  width: 37px;
+  height: 18px;
+}
+.conteiner form ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.conteiner form button {
+  margin: 15px;
+}
+
+label {
+  padding-left: 7px;
+}/*# sourceMappingURL=style_generator.css.map */

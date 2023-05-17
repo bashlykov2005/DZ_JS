@@ -1,0 +1,64 @@
+.list-group-item:hover {
+  background-color: rgb(205, 190, 190);
+}
+
+span {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  cursor: pointer;
+}
+
+.conteiner {
+  margin-left: 30px;
+}
+
+h1 {
+  margin-bottom: 150px;
+}
+
+button {
+  height: 30px;
+  width: 55px;
+  text-align: center;
+}
+
+span {
+  margin-right: 5px;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  cursor: pointer;
+}
+
+#cl button:first-child {
+  background-color: red;
+}
+
+#cl button:nth-child(2) {
+  background-color: green;
+}
+
+#cl button:nth-last-child(2) {
+  background-color: blue;
+}
+
+#cl button:nth-last-child(1) {
+  background-color: yellow;
+}
+
+#Red {
+  background-color: red;
+}
+
+#Green {
+  background-color: green;
+}
+
+#Blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+}/*# sourceMappingURL=style_todolist.css.map */

@@ -1,0 +1,13 @@
+.box {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  border: 4px solid black;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}/*# sourceMappingURL=style_event2.css.map */

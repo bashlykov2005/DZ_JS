@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h5 {
+  height: 100px;
+  font-size: 20px;
+}
+
+.card {
+  margin: 5px;
+}
+
+header {
+  background-image: url(./unnamed.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 290px;
+  margin-bottom: 10px;
+}/*# sourceMappingURL=styleweatherApi.css.map */
